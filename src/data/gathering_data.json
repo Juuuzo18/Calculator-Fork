@@ -74,6 +74,11 @@
       "level": "80",
       "xp": "3200",
       "submaterials": {}
+    },
+    "Naturite": {
+      "level": "85",
+      "xp": "7500",
+      "submaterials": {}
     }
   },
   "Woodcutting": {
