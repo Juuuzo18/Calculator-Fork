@@ -128,8 +128,18 @@
       "submaterials": {}
     },
     "Palm Wood": {
+      "level": "85",
+      "xp": "7250",
+      "submaterials": {}
+    },
+    "Pear Wood": {
       "level": "90",
-      "xp": "4000",
+      "xp": "9000",
+      "submaterials": {}
+    },
+    "Lime Wood": {
+      "level": "95",
+      "xp": "14500",
       "submaterials": {}
     }
   },
