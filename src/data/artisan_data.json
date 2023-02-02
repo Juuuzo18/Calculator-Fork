@@ -360,10 +360,25 @@
       }
     },
     "Cursed": {
-      "level": "88",
+      "level": "81",
       "xp": "4120",
       "submaterials": {
         "Palm Wood": "2"
+      }
+    },
+    "Efficiency": {
+      "level": "85",
+      "xp": "4250",
+      "submaterials": {
+        "Pear Wood": "1"
+      }
+    },
+    "Affliction": {
+      "level": "90",
+      "xp": "6000",
+      "submaterials": {
+        "Lime Wood": "1",
+        "Ancient Tablet": "1"
       }
     }
   },
