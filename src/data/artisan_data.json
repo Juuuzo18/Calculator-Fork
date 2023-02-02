@@ -77,6 +77,13 @@
       "submaterials": {
         "Magic Ore": "9"
       }
+    },
+    "Naturite": {
+      "level": "85",
+      "xp-smelt": "5000",
+      "submaterials": {
+        "Naturite Ore": "1"
+      }
     }
   },
   "Cooking": {
